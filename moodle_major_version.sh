@@ -9,4 +9,4 @@ git checkout -b BC_MOODLE_36_STABLE
 git add --all
 git commit -m 'New branch for Moodle 3.6'
 git push --set-upstream origin BC_MOODLE_36_STABLE
-echo '########################## Now add your plugins etc. before git add/commit/push ##########################' 
+echo '########################## Now add your plugins etc. then do git add/commit/push ##########################' 
